@@ -1,0 +1,49 @@
+.header {
+    background-color: red;
+    color: #fff;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+.aboutme
+    {
+        background-color: orange;
+        color: black;
+        padding: 2rem 1rem;
+        text-align: left;
+
+    }
+
+.hobbies
+  {
+    background-color: yellow;
+    color: black;
+    padding: 2rem 1rem;
+    text-align: left;
+
+  }
+
+.workexp
+{
+  background-color: green;
+  color: black;
+  padding: 2rem 1rem;
+  text-align: left;
+
+}
+
+.aspirations
+{
+  background-color: blue;
+  color: black;
+  padding: 2rem 1rem;
+  text-align: left;
+
+}
+.purple
+{
+  background-color: purple;
+  color: #fff;
+  padding: 2rem 1rem;
+  text-align: center;
+
+}
