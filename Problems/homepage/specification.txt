@@ -1,3 +1,0 @@
-HTML: <link>, <h1>, <h2>, <a> , <img>, <button>, <script> , <style> , <div> , <p>
-CSS: style , font-size, background-color , color , padding, backdrop-filter , text-align
-Java-script : I used java-script to show hidden images with button click.
